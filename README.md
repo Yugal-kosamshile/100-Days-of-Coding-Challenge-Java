@@ -23,14 +23,14 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 |-----|-------------------|--------|------|
 | 1   | Average of Three inputs | Completed | [Day 1](./Day%201) |
 | 2   | Area of a Square | Completed | [Day 2](./Day%202) |
-| 3   | [Your Day 2 Topic] | Completed | [Day 1](./Day%203) |
-| 4   | [Your Day 2 Topic] | Completed | [Day 2](./Day%204) |
-| 5   | [Your Day 2 Topic] | Completed | [Day 1](./Day%205) |
-| 6   | [Your Day 2 Topic] | Completed | [Day 2](./Day%206) |
-| 7   | [Your Day 2 Topic] | Completed | [Day 1](./Day%207) |
-| 8   | [Your Day 2 Topic] | Completed | [Day 2](./Day%208) |
-| 9   | [Your Day 2 Topic] | Completed | [Day 1](./Day%209) |
-| 10  | [Your Day 2 Topic] | Completed | [Day 2](./Day%2010)|
+| 3   | [Your Day 3 Topic] | Completed | [Day 1](./Day%203) |
+| 4   | [Your Day 4 Topic] | Completed | [Day 2](./Day%204) |
+| 5   | [Your Day 5 Topic] | Completed | [Day 1](./Day%205) |
+| 6   | [Your Day 6 Topic] | Completed | [Day 2](./Day%206) |
+| 7   | [Your Day 7 Topic] | Completed | [Day 1](./Day%207) |
+| 8   | [Your Day 8 Topic] | Completed | [Day 2](./Day%208) |
+| 9   | [Your Day 9 Topic] | Completed | [Day 1](./Day%209) |
+| 10  | [Your Day 10 Topic] | Completed | [Day 2](./Day%2010)|
 | ... | ... | ... | ... |
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
