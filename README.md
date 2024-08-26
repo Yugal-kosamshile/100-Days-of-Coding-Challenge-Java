@@ -21,8 +21,8 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 
 | Day | Project / Problem | Status | Link |
 |-----|-------------------|--------|------|
-| 1   | Odd or Even Number Checker | Completed | [Day 1](./Day01) |
-| 2   | [Your Day 2 Topic] | Completed | [Day 2](./Day02) |
+| 1   | Odd or Even Number Checker | Completed | [Day 1](./Day1) |
+| 2   | [Your Day 2 Topic] | Completed | [Day 2](./Day2) |
 | ... | ... | ... | ... |
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
