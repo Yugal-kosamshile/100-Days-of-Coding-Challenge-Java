@@ -24,7 +24,7 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 1   | Average of Three inputs | Completed | [Day 1](./Day%201) |
 | 2   | Area of a Square | Completed | [Day 2](./Day%202) |
 | 3   | Check Temperature | Completed | [Day 3](./Day%203) |
-| 4   | [Your Day 4 Topic] | --------- | [Day 4](./Day%204) |
+| 4   | Total Cost with 18% GST | Completed | [Day 4](./Day%204)) |
 | 5   | [Your Day 5 Topic] | --------- | [Day 5](./Day%205) |
 | 6   | [Your Day 6 Topic] | --------- | [Day 6](./Day%206) |
 | 7   | [Your Day 7 Topic] | --------- | [Day 7](./Day%207) |
