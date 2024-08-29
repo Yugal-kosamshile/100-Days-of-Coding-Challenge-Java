@@ -1,4 +1,4 @@
-# 100 Days of Code: Java Edition
+# 100 Days of Coding Challenge: Java Edition
 
 Welcome to my **100 Days of Code** challenge! This repository is where I document my journey of learning and improving my Java programming skills over the course of 100 days. 
 
@@ -25,7 +25,7 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 2   | Area of a Square | Completed | [Day 2](./Day%202) |
 | 3   | Check Temperature | Completed | [Day 3](./Day%203) |
 | 4   | Total Cost with 18% GST | Completed | [Day 4](./Day%204) |
-| 5   | [Your Day 5 Topic] | --------- | [Day 5](./Day%205) |
+| 5   | [Your Day 5 Topic] | Completed | [Day 5](./Day%205) |
 | 6   | [Your Day 6 Topic] | --------- | [Day 6](./Day%206) |
 | 7   | [Your Day 7 Topic] | --------- | [Day 7](./Day%207) |
 | 8   | [Your Day 8 Topic] | --------- | [Day 8](./Day%208) |
