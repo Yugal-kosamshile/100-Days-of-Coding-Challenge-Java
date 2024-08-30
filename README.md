@@ -25,8 +25,8 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 2   | Area of a Square | Completed | [Day 2](./Day%202) |
 | 3   | Check Temperature | Completed | [Day 3](./Day%203) |
 | 4   | Total Cost with 18% GST | Completed | [Day 4](./Day%204) |
-| 5   | [Your Day 5 Topic] | Completed | [Day 5](./Day%205) |
-| 6   | [Your Day 6 Topic] | --------- | [Day 6](./Day%206) |
+| 5   | Relational Operators | Completed | [Day 5](./Day%205) |
+| 6   | Basic Calculator | Completed | [Day 6](./Day%206) |
 | 7   | [Your Day 7 Topic] | --------- | [Day 7](./Day%207) |
 | 8   | [Your Day 8 Topic] | --------- | [Day 8](./Day%208) |
 | 9   | [Your Day 9 Topic] | --------- | [Day 9](./Day%209) |
