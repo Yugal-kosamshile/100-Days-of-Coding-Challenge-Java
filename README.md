@@ -27,7 +27,7 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 4   | Total Cost with 18% GST | Completed | [Day 4](./Day%204) |
 | 5   | Relational Operators | Completed | [Day 5](./Day%205) |
 | 6   | Basic Calculator | Completed | [Day 6](./Day%206) |
-| 7   | [Your Day 7 Topic] | --------- | [Day 7](./Day%207) |
+| 7   | Positive or Negative Number| Completed | [Day 7](./Day%207) |
 | 8   | [Your Day 8 Topic] | --------- | [Day 8](./Day%208) |
 | 9   | [Your Day 9 Topic] | --------- | [Day 9](./Day%209) |
 | 10  | [Your Day 10 Topic] | --------- | [Day 10](./Day%2010)|
