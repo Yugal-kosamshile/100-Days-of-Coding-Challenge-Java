@@ -30,7 +30,7 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 7   | Positive or Negative Number| Completed | [Day 7](./Day%207) |
 | 8   | Leap Year Checker |Completed | [Day 8](./Day%208) |
 | 9   | Reverse of a Given Number | Completed | [Day 9](./Day%209) |
-| 10  | [Your Day 10 Topic] | --------- | [Day 10](./Day%2010)|
+| 10  | Multiplication Table | Completed | [Day 10](./Day%2010)|
 | ... | ... | ... | ... |
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
