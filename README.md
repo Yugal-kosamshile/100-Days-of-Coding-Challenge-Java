@@ -31,6 +31,7 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 8   | Leap Year Checker |Completed | [Day 8](./Day%208) |
 | 9   | Reverse of a Given Number | Completed | [Day 9](./Day%209) |
 | 10  | Multiplication Table | Completed | [Day 10](./Day%2010)|
+| 11  | Keep Entering Numbers Until a Multiple of 10 | Completed | [Day 11](./Day%2011)|
 | ... | ... | ... | ... |
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
