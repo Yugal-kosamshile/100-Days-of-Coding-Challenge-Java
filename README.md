@@ -33,6 +33,7 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 10  | Multiplication Table | Completed | [Day 10](./Day%2010)|
 | 11  | Keep Entering Numbers Until a Multiple of 10 | Completed | [Day 11](./Day%2011)|
 | 12   |Number is Prime or Not | Completed | [Day 12](./Day%2012) |
+| 13   | Factorial of any Number | Completed | [Day 13](./Day%2013) |
 | ... | ... | ... | ... |
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
