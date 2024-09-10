@@ -36,6 +36,8 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 13   | Factorial of any Number | Completed | [Day 13](./Day%2013) |
 | 14   | Sum of First n Natural Numbers | Completed | [Day 14](./Day%2014) |
 | 15   | Sum of Even and Odd Integers | Completed | [Day 15](./Day%2015) |
+| 16   | Pattern Programs -1 | Completed | [Day 16](./Day%2016) |
+| 17   | Pattern Programs -2 | Completed | [Day 17](./Day%2017) |
 | ... | ... | ... | ... |
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
