@@ -38,6 +38,7 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 15   | Sum of Even and Odd Integers | Completed | [Day 15](./Day%2015) |
 | 16   | Pattern Programs -1 | Completed | [Day 16](./Day%2016) |
 | 17   | Pattern Programs -2 | Completed | [Day 17](./Day%2017) |
+| 18   | Calculate the Power of a Number | Completed | [Day 18](./Day%2018) |
 | ... | ... | ... | ... |
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
