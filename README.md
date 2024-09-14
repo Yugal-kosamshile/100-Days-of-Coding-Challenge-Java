@@ -41,6 +41,7 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 18   | Calculate the Power of a Number | Completed | [Day 18](./Day%2018) |
 | 19   | Find Fibonacci Sequence | Completed | [Day 19](./Day%2019) |
 | 20   | Palindrome Checker | Completed | [Day 20](./Day%2020) |
+| 21   |  Sum of Digits in a Number | Completed | [Day 21](./Day%2021) |
 | ... | ... | ... | ... |
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
