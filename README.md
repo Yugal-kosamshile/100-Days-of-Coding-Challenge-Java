@@ -42,6 +42,7 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 19   | Find Fibonacci Sequence | Completed | [Day 19](./Day%2019) |
 | 20   | Palindrome Checker | Completed | [Day 20](./Day%2020) |
 | 21   |  Sum of Digits in a Number | Completed | [Day 21](./Day%2021) |
+| 22   | Rever a String | Completed | [Day 22](./Day%2022) |
 | ... | ... | ... | ... |
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
