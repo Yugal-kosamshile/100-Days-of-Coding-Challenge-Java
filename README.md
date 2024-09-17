@@ -44,6 +44,7 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 21   |  Sum of Digits in a Number | Completed | [Day 21](./Day%2021) |
 | 22   | Rever a String | Completed | [Day 22](./Day%2022) |
 | 23   | Count Vowels and Consonants in a String | Completed | [Day 23](./Day%2023) |
+| 24   | Remove Spaces from a String | Completed | [Day 24](./Day%2024) |
 | ... | ... | ... | ... |
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
