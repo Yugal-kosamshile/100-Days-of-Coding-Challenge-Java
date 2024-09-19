@@ -17,7 +17,6 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 - **Code Files:** The Java files created during the day.
 - **README.md:** Explanation of the code, the problem it solves, and the approach used.
 - **Output.txt:** Sample output or results from running the code (if applicable).
-- **Notes.md:** Any additional learnings, challenges faced, or resources used.
 
 | Day | Project / Problem | Status | Link |
 |-----|-------------------|--------|------|
@@ -46,6 +45,7 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 23   | Count Vowels and Consonants in a String | Completed | [Day 23](./Day%2023) |
 | 24   | Remove Spaces from a String | Completed | [Day 24](./Day%2024) |
 | 25   | Convert Decimal to Binary | Completed | [Day 25](./Day%2025) |
+| 26   | Calculate Greatest Common Divisor (GCD) |Completed | [Day 26](./Day%2026) |
 | ... | ... | ... | ... |
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
@@ -70,7 +70,7 @@ Coding consistently every day helps solidify concepts and improves problem-solvi
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/[YourUsername]/100-Days-of-Code-Java.git
+   git clone https://github.com/Yugal-kosamshile/100-Days-of-Code-Java.git
    ```
 2. **Navigate to a Day's Folder:**
    Each day's folder is structured to help you understand the problem solved and the code written.
