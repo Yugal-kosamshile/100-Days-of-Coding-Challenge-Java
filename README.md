@@ -46,6 +46,7 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 24   | Remove Spaces from a String | Completed | [Day 24](./Day%2024) |
 | 25   | Convert Decimal to Binary | Completed | [Day 25](./Day%2025) |
 | 26   | Calculate Greatest Common Divisor (GCD) |Completed | [Day 26](./Day%2026) |
+| 27   | Find the Least Common Multiple (LCM) | Completed | [Day 27](./Day%2027) |
 | ... | ... | ... | ... |
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
