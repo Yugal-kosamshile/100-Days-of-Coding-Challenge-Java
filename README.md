@@ -47,6 +47,8 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 25   | Convert Decimal to Binary | Completed | [Day 25](./Day%2025) |
 | 26   | Calculate Greatest Common Divisor (GCD) |Completed | [Day 26](./Day%2026) |
 | 27   | Find the Least Common Multiple (LCM) | Completed | [Day 27](./Day%2027) |
+| 28   | Generate Random Numbers and Sort Them | Completed | [Day 28](./Day%2028) |
+| 29   | Find the Largest and Smallest Number in an Array | Completed | [Day 29](./Day%2029) |
 | ... | ... | ... | ... |
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
