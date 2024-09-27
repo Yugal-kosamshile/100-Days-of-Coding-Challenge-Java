@@ -52,7 +52,8 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 30  | Calculate the Sum of Natural Numbers | Completed | [Day 30](./Day%2030)|
 | 31  | Generate Random Numbers and Sort Them | Completed | [Day 31](./Day%2031)|
 | 32   |Linear Search Algorithm | Completed | [Day 32](./Day%2032) |
-| 33   | Check if Two Strings are Anagrams | Completed | [Day 13](./Day%2033) |
+| 33   | Check if Two Strings are Anagrams | Completed | [Day 33](./Day%2033) |
+| 34   |Binary Search Algorithm | Completed | [Day 34](./Day%2034) |
 | ... | ... | ... | ... |
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
