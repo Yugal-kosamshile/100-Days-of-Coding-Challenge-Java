@@ -54,6 +54,7 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 32   |Linear Search Algorithm | Completed | [Day 32](./Day%2032) |
 | 33   | Check if Two Strings are Anagrams | Completed | [Day 33](./Day%2033) |
 | 34   |Binary Search Algorithm | Completed | [Day 34](./Day%2034) |
+| 35   |Check if a Binary Search Tree (BST) is Balanced | Completed | [Day 35](./Day%2035) |
 | ... | ... | ... | ... |
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
