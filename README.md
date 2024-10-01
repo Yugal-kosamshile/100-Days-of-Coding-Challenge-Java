@@ -55,6 +55,9 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 33   | Check if Two Strings are Anagrams | Completed | [Day 33](./Day%2033) |
 | 34   |Binary Search Algorithm | Completed | [Day 34](./Day%2034) |
 | 35   |Check if a Binary Search Tree (BST) is Balanced | Completed | [Day 35](./Day%2035) |
+| 36   | Check if a Number is Armstrong | Completed | [Day 36](./Day%2036) |
+| 37   | Bubble Sort Algorithm | Completed | [Day 37](./Day%2037) |
+| 38   | Selection Sort Algorithm | Completed | [Day 38](./Day%2038) |
 | ... | ... | ... | ... |
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
