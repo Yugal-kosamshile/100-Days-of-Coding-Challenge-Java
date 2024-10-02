@@ -57,7 +57,8 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 35   |Check if a Binary Search Tree (BST) is Balanced | Completed | [Day 35](./Day%2035) |
 | 36   | Check if a Number is Armstrong | Completed | [Day 36](./Day%2036) |
 | 37   | Bubble Sort Algorithm | Completed | [Day 37](./Day%2037) |
-| 38   | Selection Sort Algorithm | Completed | [Day 38](./Day%2038) |
+| 38   | Selection Sort Algorithm Insertion Sort Algorithm | Completed | [Day 38](./Day%2038) |
+| 39   | Insertion Sort Algorithm | Completed | [Day 39](./Day%2039) |
 | ... | ... | ... | ... |
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
