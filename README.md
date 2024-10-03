@@ -59,6 +59,7 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 37   | Bubble Sort Algorithm | Completed | [Day 37](./Day%2037) |
 | 38   | Selection Sort Algorithm Insertion Sort Algorithm | Completed | [Day 38](./Day%2038) |
 | 39   | Insertion Sort Algorithm | Completed | [Day 39](./Day%2039) |
+| 40   | Print Pascal’s Triangle | Completed | [Day 40](./Day%2040) |
 | ... | ... | ... | ... |
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
