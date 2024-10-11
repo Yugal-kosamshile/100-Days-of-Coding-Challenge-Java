@@ -60,6 +60,14 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 38   | Selection Sort Algorithm Insertion Sort Algorithm | Completed | [Day 38](./Day%2038) |
 | 39   | Insertion Sort Algorithm | Completed | [Day 39](./Day%2039) |
 | 40   | Print Pascal’s Triangle | Completed | [Day 40](./Day%2040) |
+| 41   | Print a Diamond & Butterfly Pattern | Completed | [Day 41](./Day%2041) |
+| 42   | Find the Largest and Smallest Number in an Array| Completed | [Day 42](./Day%2042) |
+| 43   | Remove Duplicates from an Array | Completed | [Day 43](./Day%2043) |
+| 44   | Reverse an Array| Completed | [Day 44](./Day%2044) |
+| 45   |Find the Missing Number in an Array | Completed | [Day 45](./Day%2045) |
+| 46   | Find the Median of an Array | Completed | [Day 46](./Day%2046) |
+| 47   | Find the Mode of an Array | Completed | [Day 47](./Day%2047) |
+| 48   |Count the Occurrences of a Character in a String | Completed | [Day 48](./Day%2048) |
 | ... | ... | ... | ... |
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
