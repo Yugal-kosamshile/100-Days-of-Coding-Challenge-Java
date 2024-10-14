@@ -68,6 +68,9 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 46   | Find the Median of an Array | Completed | [Day 46](./Day%2046) |
 | 47   | Find the Mode of an Array | Completed | [Day 47](./Day%2047) |
 | 48   |Count the Occurrences of a Character in a String | Completed | [Day 48](./Day%2048) |
+| 49   | Merge sort Algorithm | Completed | [Day 49](./Day%2049) |
+| 50   | Quick Sort Algorithm | Completed | [Day 50](./Day%2050) |
+| 51   | Find the Largest Prime Factor | Completed | [Day 51](./Day%2051) |
 | ... | ... | ... | ... |
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
