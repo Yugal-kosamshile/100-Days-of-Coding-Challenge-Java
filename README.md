@@ -71,6 +71,7 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 49   | Merge sort Algorithm | Completed | [Day 49](./Day%2049) |
 | 50   | Quick Sort Algorithm | Completed | [Day 50](./Day%2050) |
 | 51   | Find the Largest Prime Factor | Completed | [Day 51](./Day%2051) |
+| 52   | Find the Second Largest Number in an Array | Completed | [Day 52](./Day%2052) |
 | ... | ... | ... | ... |
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
