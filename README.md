@@ -73,6 +73,7 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 51   | Find the Largest Prime Factor | Completed | [Day 51](./Day%2051) |
 | 52   | Find the Second Largest Number in an Array | Completed | [Day 52](./Day%2052) |
 | 53   | Check if a Number is a Perfect Number | Completed | [Day 53](./Day%2053) |
+| 54   | Find the Sum of Digits Until One Digit | Completed | [Day 54](./Day%2054) |
 | ... | ... | ... | ... |
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
