@@ -75,6 +75,10 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 53   | Check if a Number is a Perfect Number | Completed | [Day 53](./Day%2053) |
 | 54   | Find the Sum of Digits Until One Digit | Completed | [Day 54](./Day%2054) |
 | 55   | Count the Number of Digits in a Number| Completed | [Day 55](./Day%2055) |
+| 56   |  Check if a Number is a Strong Number | Completed | [Day 56](./Day%2056) |
+| 57   | Calculate the Square Root of a Number | Completed | [Day 57](./Day%2057) |
+| 58   |Implement a Priority Queue | Completed | [Day 58](./Day%2058) |
+| 59   |Read and Write Files | Completed | [Day 59](./Day%2059) |
 | ... | ... | ... | ... |
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
