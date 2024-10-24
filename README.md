@@ -79,6 +79,8 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 57   | Calculate the Square Root of a Number | Completed | [Day 57](./Day%2057) |
 | 58   |Implement a Priority Queue | Completed | [Day 58](./Day%2058) |
 | 59   |Read and Write Files | Completed | [Day 59](./Day%2059) |
+| 60   |Handle File Exceptions | Completed | [Day 60](./Day%2060) |
+| 61   |Implement a Stack Using Arrays | Completed | [Day 61](./Day%2061) |
 | ... | ... | ... | ... |
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
