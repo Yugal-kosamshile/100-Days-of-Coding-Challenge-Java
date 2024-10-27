@@ -83,7 +83,8 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 61   |Implement a Stack Using Arrays | Completed | [Day 61](./Day%2061) |
 | 62   |Implement a Queue Using Arrays | Completed | [Day 62](./Day%2062) |
 | 63 |Implement a Linked List|Completed |[Day 63](./Day%63)|
-| ... | ... | ... | ... |
+| 64 | Reverse a Linked List | Completed |[Day 64](./Day%64)|
+| ... | ... | ... | ...|
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
 ## 🧠 What I Aim to Learn
