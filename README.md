@@ -86,7 +86,7 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 64 | Reverse a Linked List | Completed |[Day 64](./Day%64)|
 | 65 | Find the Length of a Linked List | Completed |[Day 65](./Day%65)|
 | 66 | Detect a Cycle in a Linked List | Completed |[Day 66](./Day%66)|
-| 67 | Merge Two Sorted Lists |[Day 67](./Day%67)|
+| 67 | Merge Two Sorted Lists | Completed |[Day 67](./Day%67)|
 | 68 | Convert a Linked List to an Array | Completed |[Day 68](./Day%68)|
 | ... | ... | ... | ...|
 | 100 | Final Project | Planned | [Day 100](./Day100) |
