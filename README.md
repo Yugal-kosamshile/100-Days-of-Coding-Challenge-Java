@@ -88,6 +88,7 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 66 | Detect a Cycle in a Linked List | Completed |[Day 66](./Day%66)|
 | 67 | Merge Two Sorted Lists | Completed |[Day 67](./Day%67)|
 | 68 | Convert a Linked List to an Array | Completed |[Day 68](./Day%68)|
+| 69 |Implement a Hashmap|Completed |[Day 69](./Day%69)|
 | ... | ... | ... | ...|
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
