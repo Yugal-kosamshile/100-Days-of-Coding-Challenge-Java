@@ -89,6 +89,8 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 67 | Merge Two Sorted Lists | Completed |[Day 67](./Day%67)|
 | 68 | Convert a Linked List to an Array | Completed |[Day 68](./Day%68)|
 | 69 |Implement a Hashmap|Completed |[Day 69](./Day%69)|
+| 70 |Count Elements in a HashMap |Completed |[Day 70](./Day%70)|
+| 71 |Implement a Binary Search Tree (BST) |Completed |[Day 71](./Day%71)|
 | ... | ... | ... | ...|
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
