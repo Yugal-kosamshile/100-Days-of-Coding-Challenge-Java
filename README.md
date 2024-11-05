@@ -91,6 +91,9 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 69 |Implement a Hashmap|Completed |[Day 69](./Day%69)|
 | 70 |Count Elements in a HashMap |Completed |[Day 70](./Day%70)|
 | 71 |Implement a Binary Search Tree (BST) |Completed |[Day 71](./Day%71)|
+| 72 |Find the Height of a BST |Completed|[Day 72](./Day%72)|
+| 73 |Check if a BST is Balanced|Completed |[Day 73](./Day%73)|
+| 74 |Find the Lowest Common Ancestor in a BST|Completed  |[Day 74](./Day%74)|
 | ... | ... | ... | ...|
 | 100 | Final Project | Planned | [Day 100](./Day100) |
 
