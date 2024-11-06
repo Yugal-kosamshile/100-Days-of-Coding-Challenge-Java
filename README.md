@@ -82,20 +82,20 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 60   |Handle File Exceptions | Completed | [Day 60](./Day%2060) |
 | 61   |Implement a Stack Using Arrays | Completed | [Day 61](./Day%2061) |
 | 62   |Implement a Queue Using Arrays | Completed | [Day 62](./Day%2062) |
-| 63 |Implement a Linked List|Completed |[Day 63](./Day%63)|
-| 64 | Reverse a Linked List | Completed |[Day 64](./Day%64)|
-| 65 | Find the Length of a Linked List | Completed |[Day 65](./Day%65)|
-| 66 | Detect a Cycle in a Linked List | Completed |[Day 66](./Day%66)|
-| 67 | Merge Two Sorted Lists | Completed |[Day 67](./Day%67)|
-| 68 | Convert a Linked List to an Array | Completed |[Day 68](./Day%68)|
-| 69 |Implement a Hashmap|Completed |[Day 69](./Day%69)|
-| 70 |Count Elements in a HashMap |Completed |[Day 70](./Day%70)|
-| 71 |Implement a Binary Search Tree (BST) |Completed |[Day 71](./Day%71)|
-| 72 |Find the Height of a BST |Completed|[Day 72](./Day%72)|
-| 73 |Check if a BST is Balanced|Completed |[Day 73](./Day%73)|
-| 74 |Find the Lowest Common Ancestor in a BST|Completed  |[Day 74](./Day%74)|
+| 63 |Implement a Linked List|Completed |[Day 63](./Day%2063)|
+| 64 | Reverse a Linked List | Completed |[Day 64](./Day%2064)|
+| 65 | Find the Length of a Linked List | Completed |[Day 65](./Day%2065)|
+| 66 | Detect a Cycle in a Linked List | Completed |[Day 66](./Day%2066)|
+| 67 | Merge Two Sorted Lists | Completed |[Day 67](./Day%2067)|
+| 68 | Convert a Linked List to an Array | Completed |[Day 68](./Day%2068)|
+| 69 |Implement a Hashmap|Completed |[Day 69](./Day%2069)|
+| 70 |Count Elements in a HashMap |Completed |[Day 70](./Day%2070)|
+| 71 |Implement a Binary Search Tree (BST) |Completed |[Day 71](./Day%2071)|
+| 72 |Find the Height of a BST |Completed|[Day 72](./Day%2072)|
+| 73 |Check if a BST is Balanced|Completed |[Day 73](./Day%2073)|
+| 74 |Find the Lowest Common Ancestor in a BST|Completed  |[Day 74](./Day%2074)|
 | ... | ... | ... | ...|
-| 100 | Final Project | Planned | [Day 100](./Day100) |
+| 100 | Final Project | Planned | [Day 100](./Day%20100) |
 
 ## 🧠 What I Aim to Learn
 
