@@ -94,6 +94,7 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 72 |Find the Height of a BST |Completed|[Day 72](./Day%2072)|
 | 73 |Check if a BST is Balanced|Completed |[Day 73](./Day%2073)|
 | 74 |Find the Lowest Common Ancestor in a BST|Completed  |[Day 74](./Day%2074)|
+| 75 |Implement Depth-First Search (DFS) for a BST|Completed |[Day 75](./Day%2075)|
 | ... | ... | ... | ...|
 | 100 | Final Project | Planned | [Day 100](./Day%20100) |
 
