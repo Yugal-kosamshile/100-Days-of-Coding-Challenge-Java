@@ -96,6 +96,7 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 74 |Find the Lowest Common Ancestor in a BST|Completed  |[Day 74](./Day%2074)|
 | 75 |Implement Depth-First Search (DFS) for a BST|Completed |[Day 75](./Day%2075)|
 | 76 |Implement Breadth-First Search (BFS) for a BST|Completed |[Day 76](./Day%2076)|
+| 77 | Implement a Simple Calculator with GUI | Completed | [Day 77](./Day%2077) |
 | ... | ... | ... | ...|
 | 100 | Final Project | Planned | [Day 100](./Day%20100) |
 
