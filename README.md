@@ -97,6 +97,7 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 75 |Implement Depth-First Search (DFS) for a BST|Completed |[Day 75](./Day%2075)|
 | 76 |Implement Breadth-First Search (BFS) for a BST|Completed |[Day 76](./Day%2076)|
 | 77 | Implement a Simple Calculator with GUI | Completed | [Day 77](./Day%2077) |
+| 78 | Create a Simple To-Do List Application | Completed | [Day 78](./Day%2078) |
 | ... | ... | ... | ...|
 | 100 | Final Project | Planned | [Day 100](./Day%20100) |
 
