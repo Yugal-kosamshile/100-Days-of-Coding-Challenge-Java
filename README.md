@@ -99,6 +99,7 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 77 | Implement a Simple Calculator with GUI | Completed | [Day 77](./Day%2077) |
 | 78 | Create a Simple To-Do List Application | Completed | [Day 78](./Day%2078) |
 | 79 | Implement a Basic Game (Tic-Tac-Toe)| Completed | [Day 79](./Day%2079) |
+| 80 | Parse a Date and Time| Completed | [Day 80](./Day%2080) |
 | ... | ... | ... | ...|
 | 100 | Final Project | Planned | [Day 100](./Day%20100) |
 
