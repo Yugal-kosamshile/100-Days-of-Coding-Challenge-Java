@@ -119,7 +119,7 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 97 | Implement a Producer-Consumer Problem| Completed | [Day 97](./Day%2097) |
 | 98 | Simple Note-Taking App (GUI)| Completed | [Day 98](./Day%2098) |
 | 99 | Task Manager App (GUI)| Completed | [Day 99](./Day%2099) |
-| 100 | Final Project | Planned | [Day 100](./Day%20100) |
+| 100 | Student Management System Project | Completed | [Day 100](./Day%20100) |
 
 ## 🧠 What I Aim to Learn
 
