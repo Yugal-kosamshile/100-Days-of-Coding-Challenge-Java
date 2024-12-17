@@ -4,8 +4,8 @@ Welcome to my **100 Days of Code** challenge! This repository is where I documen
 
 ## 🛠️ Challenge Overview
 
-- **Challenge End Date:** 25-08-2024
-- **Challenge End Date:** "will see..."
+- **Challenge Start Date:** 25-08-2024
+- **Challenge End Date:** 02-12-2024
 - **Primary Language:** Java
 - **Total Days:** 100
 - **Objective:** Enhance my Java programming skills by coding daily and solving various problems, building projects, and exploring different aspects of the language.
@@ -103,8 +103,22 @@ Every day, I'll be adding a new folder corresponding to that day's challenge. Ea
 | 81 | Convert between Time Zones| Completed | [Day 81](./Day%2081) |
 | 82 | Find the Difference between Two Dates |Completed | [Day 82](./Day%2082) |
 | 83 |Create a Simple Bank Account Management System|Completed | [Day 83](./Day%2083) |
-
-| ... | ... | ... | ...|
+| 84 | Handle HTTP GET Request Using Java| Completed | [Day 84](./Day%2084) |
+| 85 | Handle HTTP POST Request Using Java| Completed | [Day 85](./Day%2085) |
+| 86 | Handle HTTP Response Codes| Completed | [Day 86](./Day%2086) |
+| 87 | Implementing a Simple Chat Server| Completed | [Day 87](./Day%2087) |
+| 88 | Implementing HTTP Request and Response Parsing| Completed | [Day 88](./Day%2088) |
+| 89 | Implementing JSON Parsing| Completed | [Day 89](./Day%2089) |
+| 90 | File Compression Using GZIP| Completed | [Day 90](./Day%2090) |
+| 91 | File Decompression Using GZIP| Completed | [Day 91](./Day%2091) |
+| 92 | Multithreading Example - Sum of Array| Completed | [Day 92](./Day%2092) |
+| 93 | Create a Basic Swing Application| Completed | [Day 93](./Day%2093) |
+| 94 | Create a Basic JavaFX Application| Completed | [Day 94](./Day%2094) |
+| 95 | Implement a Command-Line Parser| Completed | [Day 95](./Day%2095) |
+| 96 | Handle Concurrency with Threads| Completed | [Day 96](./Day%2096) |
+| 97 | Implement a Producer-Consumer Problem| Completed | [Day 97](./Day%2097) |
+| 98 | Simple Note-Taking App (GUI)| Completed | [Day 98](./Day%2098) |
+| 99 | Task Manager App (GUI)| Completed | [Day 99](./Day%2099) |
 | 100 | Final Project | Planned | [Day 100](./Day%20100) |
 
 ## 🧠 What I Aim to Learn
@@ -120,7 +134,7 @@ Coding consistently every day helps solidify concepts and improves problem-solvi
 
 ## 💻 Tools and Technologies
 
-- **IDE:** Visual Studio Code (VS code)
+- **IDE:** Visual Studio Code (VS code), Eclipse
 - **Version Control:** Git & GitHub
 - **Languages:** Java (with possible inclusion of libraries/frameworks)
 
