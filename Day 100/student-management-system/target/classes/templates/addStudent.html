@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Student</title>
+</head>
+<body>
+    <h1>Add New Student</h1>
+    <form action="/students/save" method="POST">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name">
+        <label for="rollNumber">Roll Number:</label>
+        <input type="text" id="rollNumber" name="rollNumber">
+        <label for="course">Course:</label>
+        <input type="text" id="course" name="course">
+        <label for="marks">Marks:</label>
+        <input type="number" id="marks" name="marks">
+        <button type="submit">Save Student</button>
+    </form>
+</body>
+</html>

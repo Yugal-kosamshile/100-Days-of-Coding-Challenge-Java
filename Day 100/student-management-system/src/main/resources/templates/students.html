@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Management System</title>
+    <link rel="stylesheet" th:href="@{/css/styles.css}">
+</head>
+<body>
+    <h1>Student Management System</h1>
+    <a href="/students/add">Add New Student</a>
+    
+    <table>
+        <thead>
+            <tr>
+                <th class="head">Name</th>
+                <th class="head">Roll Number</th>
+                <th class="head">Course</th>
+                <th class="head">Marks</th>
+                <th class="head">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr th:each="student : ${students}">
+                <td th:text="${student.name}">Student Name</td>
+                <td th:text="${student.rollNumber}">Roll Number</td>
+                <td th:text="${student.course}">Course</td>
+                <td th:text="${student.marks}">Marks</td>
+                <td>
+                    <a th:href="@{/students/edit/{id}(id=${student.id})}">Edit</a> |
+                    <a th:href="@{/students/delete/{id}(id=${student.id})}">Delete</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

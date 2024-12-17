@@ -1,0 +1,40 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #000;
+	text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+	border-radius: 5px;
+}
+
+.head {
+    border: 1px solid black;
+	color: #000;
+	background-color:  #FFF5D7 ;
+}
+table, th, td {
+    border: 1px solid black;
+	color:  #355F2E;
+	background-color: #F2F9FF;
+}
+
+th, td {
+    padding: 8px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #A8CD89;
+}
+
+a:hover {
+    text-decoration: underline;
+}

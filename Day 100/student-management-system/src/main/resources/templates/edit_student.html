@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit Student</title>
+    <link rel="stylesheet" href="/css/styles.css"> <!-- Optional CSS -->
+</head>
+<body>
+    <h1>Edit Student</h1>
+    <form th:action="@{/students/update/{id}(id=${student.id})}" method="post" th:object="${student}">
+        <!-- Hidden ID Field -->
+        <input type="hidden" th:field="*{id}" />
+
+        <!-- Name Input -->
+        <label for="name">Name:</label>
+        <input type="text" id="name" th:field="*{name}" required />
+        <br>
+
+        <!-- Roll Number Input -->
+        <label for="rollNumber">Roll Number:</label>
+        <input type="text" id="rollNumber" th:field="*{rollNumber}" required />
+        <br>
+
+        <!-- Course Input -->
+        <label for="course">Course:</label>
+        <input type="text" id="course" th:field="*{course}" required />
+        <br>
+
+        <!-- Marks Input -->
+        <label for="marks">Marks:</label>
+        <input type="number" id="marks" th:field="*{marks}" required />
+        <br>
+
+        <!-- Submit Button -->
+        <button type="submit">Update</button>
+    </form>
+    <a href="/students">Back to Students List</a>
+</body>
+</html>
