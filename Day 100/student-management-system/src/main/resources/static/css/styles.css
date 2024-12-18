@@ -1,40 +1,74 @@
-/* styles.css */
 body {
-    font-family: Arial, sans-serif;
-}
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
 
-h1 {
-    color: #000;
-	text-align: center;
-}
+        h1 {
+            color: #343a40;
+            margin-bottom: 20px;
+        }
 
-table {
-    width: 100%;
-    border-collapse: collapse;
-	border-radius: 5px;
-}
+        a {
+            text-decoration: none;
+            color: #007bff;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
 
-.head {
-    border: 1px solid black;
-	color: #000;
-	background-color:  #FFF5D7 ;
-}
-table, th, td {
-    border: 1px solid black;
-	color:  #355F2E;
-	background-color: #F2F9FF;
-}
+        a:hover {
+            text-decoration: underline;
+        }
 
-th, td {
-    padding: 8px;
-    text-align: center;
-}
+        table {
+            width: 80%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            background: #fff;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
 
-a {
-    text-decoration: none;
-    color: #A8CD89;
-}
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border: 1px solid #dee2e6;
+        }
 
-a:hover {
-    text-decoration: underline;
-}
+        th {
+            background-color: #007bff;
+            color: white;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        tr:hover {
+            background-color: #e9ecef;
+        }
+
+        .head {
+            font-weight: bold;
+        }
+
+        td a {
+            color: #007bff;
+        }
+
+        td a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 600px) {
+            table {
+                width: 100%;
+            }
+
+            th, td {
+                font-size: 14px;
+            }
+        }
