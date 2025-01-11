@@ -1,0 +1,727 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>100 Days of Code Challenge: Java Edition</title>
+    
+  <link rel="icon" href="./Days.png" type="image">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h2, h3 {
+            color: #333;
+        }
+        table {
+            width: 100%;
+            margin-top: 20px;
+            border-collapse: collapse;
+        }
+        table th, table td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        table th {
+            background-color: #f4f4f4;
+        }
+        table tr:hover {
+            background-color: #f1f1f1;
+        }
+        .status {
+            font-weight: bold;
+        }
+        .completed {
+            color: green;
+        }
+        .pending {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>100 Days of Code Challenge: Java Edition</h1>
+</header>
+
+<div class="container">
+    <section>
+        <h2>Challenge Overview</h2>
+        <p>Welcome to my <strong>100 Days of Code</strong> challenge! This repository is where I document my journey of learning and improving my Java programming skills over the course of 100 days.</p>
+
+        <ul>
+            <li><strong>Challenge Start Date:</strong> 25-08-2024</li>
+            <li><strong>Challenge End Date:</strong> 02-12-2024</li>
+            <li><strong>Primary Language:</strong> Java</li>
+            <li><strong>Total Days:</strong> 100</li>
+            <li><strong>Objective:</strong> Enhance my Java programming skills by coding daily and solving various problems, building projects, and exploring different aspects of the language.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Daily Log</h2>
+        <p>Every day, I'll be adding a new folder corresponding to that day's challenge. Each folder will contain the following:</p>
+        <ul>
+            <li><strong>Code Files:</strong> The Java files created during the day.</li>
+            <li><strong>README.md:</strong> Explanation of the code, the problem it solves, and the approach used.</li>
+            <li><strong>Output.txt:</strong> Sample output or results from running the code (if applicable).</li>
+        </ul>
+
+        <h3>Challenges</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Day</th>
+                    <th>Project / Problem</th>
+                    <th>Status</th>
+                    <th>Link</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Average of Three Inputs</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%201">Day 1</a></td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Area of a Square</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%202">Day 2</a></td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Check Temperature</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%203">Day 3</a></td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>Total Cost with 18% GST</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%204">Day 4</a></td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>Relational Operators</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%205">Day 5</a></td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>Calculator Using Basic Operators</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%206">Day 6</a></td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>Leap Year Check</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%207">Day 7</a></td>
+                </tr>
+                <tr>
+                    <td>8</td>
+                    <td>Multiplication Table</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%208">Day 8</a></td>
+                </tr>
+                <tr>
+                    <td>9</td>
+                    <td>Reverse a Number</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%209">Day 9</a></td>
+                </tr>
+                <tr>
+                    <td>10</td>
+                    <td>Palindrome Check</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2010">Day 10</a></td>
+                </tr>
+                <tr>
+                    <td>11</td>
+                    <td>Numbers Until Multiple of 10</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2011">Day 11</a></td>
+                </tr>
+                <tr>
+                    <td>12</td>
+                    <td>Prime Number Check</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2012">Day 12</a></td>
+                </tr>
+                <tr>
+                    <td>13</td>
+                    <td>Factorial of a Number</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2013">Day 13</a></td>
+                </tr>
+                <tr>
+                    <td>14</td>
+                    <td>Sum of First n Natural Numbers</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2014">Day 14</a></td>
+                </tr>
+                <tr>
+                    <td>15</td>
+                    <td>Sum of First n Natural Numbers (Revisited)</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2015">Day 15</a></td>
+                </tr>
+                <tr>
+                    <td>16</td>
+                    <td>Pattern Programs</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2016">Day 16</a></td>
+                </tr>
+                <tr>
+                    <td>17</td>
+                    <td>More Pattern Programs</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2017">Day 17</a></td>
+                </tr>
+                <tr>
+                    <td>18</td>
+                    <td>Calculate the Power of a Number</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2018">Day 18</a></td>
+                </tr>
+                <tr>
+                    <td>19</td>
+                    <td>Fibonacci Sequence</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2019">Day 19</a></td>
+                </tr>
+                <tr>
+                    <td>20</td>
+                    <td>Check if a String is a Palindrome</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2020">Day 20</a></td>
+                </tr>
+                <tr>
+                    <td>21</td>
+                    <td>Sum of Digits in a Number</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2021">Day 21</a></td>
+                </tr>
+                <tr>
+                    <td>22</td>
+                    <td>Count Vowels and Consonants in a String</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2022">Day 22</a></td>
+                </tr>
+                <tr>
+                    <td>23</td>
+                    <td>Remove Spaces from a String</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2023">Day 23</a></td>
+                </tr>
+                <tr>
+                    <td>24</td>
+                    <td>Greatest Common Divisor (GCD)</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2024">Day 24</a></td>
+                </tr>
+                <tr>
+                    <td>25</td>
+                    <td>Least Common Multiple (LCM)</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2025">Day 25</a></td>
+                </tr>
+                <tr>
+                    <td>26</td>
+                    <td>Generate Random Numbers and Sort</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2026">Day 26</a></td>
+                </tr>
+                <tr>
+                    <td>27</td>
+                    <td>Largest and Smallest Numbers in an Array</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2027">Day 27</a></td>
+                </tr>
+                <tr>
+                    <td>28</td>
+                    <td>Linear Search</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2028">Day 28</a></td>
+                </tr>
+                <tr>
+                    <td>29</td>
+                    <td>Binary Search</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2029">Day 29</a></td>
+                </tr>
+                <tr>
+                    <td>30</td>
+                    <td>Check if a Binary Search Tree is Balanced</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2030">Day 30</a></td>
+                </tr>
+                <tr>
+                    <td>31</td>
+                    <td>Implement Linear Search Algorithm</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2031">Day 31</a></td>
+                </tr>
+                <tr>
+                    <td>32</td>
+                    <td>Implement Binary Search Algorithm</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2032">Day 32</a></td>
+                </tr>
+                <tr>
+                    <td>33</td>
+                    <td>Check if Two Strings are Anagrams</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2033">Day 33</a></td>
+                </tr>
+                <tr>
+                    <td>34</td>
+                    <td>Generate Fibonacci Sequence</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2034">Day 34</a></td>
+                </tr>
+                <tr>
+                    <td>35</td>
+                    <td>Implement a Calculator Using Java</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2035">Day 35</a></td>
+                </tr>
+                <tr>
+                    <td>36</td>
+                    <td>Implement Bubble Sort Algorithm</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2036">Day 36</a></td>
+                </tr>
+                <tr>
+                    <td>37</td>
+                    <td>Implement Selection Sort Algorithm</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2037">Day 37</a></td>
+                </tr>
+                <tr>
+                    <td>38</td>
+                    <td>Implement Insertion Sort Algorithm</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2038">Day 38</a></td>
+                </tr>
+                <tr>
+                    <td>39</td>
+                    <td>Find the Largest and Smallest Number in an Array</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2039">Day 39</a></td>
+                </tr>
+                <tr>
+                    <td>40</td>
+                    <td>Implement Merge Sort Algorithm</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2040">Day 40</a></td>
+                </tr>
+                <tr>
+                    <td>41</td>
+                    <td>Implement Quick Sort Algorithm</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2041">Day 41</a></td>
+                </tr>
+                <tr>
+                    <td>42</td>
+                    <td>Implement Binary Search Tree (BST)</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2042">Day 42</a></td>
+                </tr>
+                <tr>
+                    <td>43</td>
+                    <td>Find the Height of a Binary Tree</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2043">Day 43</a></td>
+                </tr>
+                <tr>
+                    <td>44</td>
+                    <td>Implement Depth First Search (DFS) on Binary Tree</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2044">Day 44</a></td>
+                </tr>
+                <tr>
+                    <td>45</td>
+                    <td>Implement Breadth First Search (BFS) on Binary Tree</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2045">Day 45</a></td>
+                </tr>
+                <tr>
+                    <td>46</td>
+                    <td>Implement a Linked List</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2046">Day 46</a></td>
+                </tr>
+                <tr>
+                    <td>47</td>
+                    <td>Reverse a Linked List</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2047">Day 47</a></td>
+                </tr>
+                <tr>
+                    <td>48</td>
+                    <td>Detect a Cycle in a Linked List</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2048">Day 48</a></td>
+                </tr>
+                <tr>
+                    <td>49</td>
+                    <td>Merge Two Sorted Linked Lists</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2049">Day 49</a></td>
+                </tr>
+                <tr>
+                    <td>50</td>
+                    <td>Implement a Stack</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2050">Day 50</a></td>
+                </tr>
+                <tr>
+                    <td>51</td>
+                    <td>Implement a Queue</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2051">Day 51</a></td>
+                </tr>
+                <tr>
+                    <td>52</td>
+                    <td>Implement a Circular Queue</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2052">Day 52</a></td>
+                </tr>
+                <tr>
+                    <td>53</td>
+                    <td>Find the Middle Element of a Linked List</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2053">Day 53</a></td>
+                </tr>
+                <tr>
+                    <td>54</td>
+                    <td>Implement a HashMap</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2054">Day 54</a></td>
+                </tr>
+                <tr>
+                    <td>55</td>
+                    <td>Count the Frequency of Elements in an Array</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2055">Day 55</a></td>
+                </tr>
+                <tr>
+                    <td>56</td>
+                    <td>Find the Missing Number in an Array</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2056">Day 56</a></td>
+                </tr>
+                <tr>
+                    <td>57</td>
+                    <td>Find the Duplicate Number in an Array</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2057">Day 57</a></td>
+                </tr>
+                <tr>
+                    <td>58</td>
+                    <td>Find the Kth Largest Element in an Array</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2058">Day 58</a></td>
+                </tr>
+                <tr>
+                    <td>59</td>
+                    <td>Find the Kth Smallest Element in an Array</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2059">Day 59</a></td>
+                </tr>
+                <tr>
+                    <td>60</td>
+                    <td>Check if an Array is Sorted</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2060">Day 60</a></td>
+                </tr>
+                <tr>
+                    <td>61</td>
+                    <td>Implement a Priority Queue</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2061">Day 61</a></td>
+                </tr>
+                <tr>
+                    <td>62</td>
+                    <td>Find the Union and Intersection of Two Arrays</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2062">Day 62</a></td>
+                </tr>
+                <tr>
+                    <td>63</td>
+                    <td>Find the Longest Substring Without Repeating Characters</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2063">Day 63</a></td>
+                </tr>
+                <tr>
+                    <td>64</td>
+                    <td>Find the Longest Palindromic Substring</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2064">Day 64</a></td>
+                </tr>
+                <tr>
+                    <td>65</td>
+                    <td>Count the Number of Words in a String</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2065">Day 65</a></td>
+                </tr>
+                <tr>
+                    <td>66</td>
+                    <td>Reverse Words in a String</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2066">Day 66</a></td>
+                </tr>
+                <tr>
+                    <td>67</td>
+                    <td>Implement a Trie (Prefix Tree)</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2067">Day 67</a></td>
+                </tr>
+                <tr>
+                    <td>68</td>
+                    <td>Find All Permutations of a String</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2068">Day 68</a></td>
+                </tr>
+                <tr>
+                    <td>69</td>
+                    <td>Find All Anagrams in a String</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2069">Day 69</a></td>
+                </tr>
+                <tr>
+                    <td>70</td>
+                    <td>Validate a Sudoku Board</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2070">Day 70</a></td>
+                </tr>
+                <tr>
+                    <td>71</td>
+                    <td>Find the Majority Element in an Array</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2071">Day 71</a></td>
+                </tr>
+                <tr>
+                    <td>72</td>
+                    <td>Find the Peak Element in an Array</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2072">Day 72</a></td>
+                </tr>
+                <tr>
+                    <td>73</td>
+                    <td>Count Inversions in an Array</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2073">Day 73</a></td>
+                </tr>
+                <tr>
+                    <td>74</td>
+                    <td>Implement a Max Heap</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2074">Day 74</a></td>
+                </tr>
+                <tr>
+                    <td>75</td>
+                    <td>Implement a Min Heap</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2075">Day 75</a></td>
+                </tr>
+                <tr>
+                    <td>76</td>
+                    <td>Check if a Number is a Power of Two</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2076">Day 76</a></td>
+                </tr>
+                <tr>
+                    <td>77</td>
+                    <td>Find the Single Number in an Array</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2077">Day 77</a></td>
+                </tr>
+                <tr>
+                    <td>78</td>
+                    <td>Find the Missing Number in a Sequence</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2078">Day 78</a></td>
+                </tr>
+                <tr>
+                    <td>79</td>
+                    <td>Find the Longest Common Subsequence</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2079">Day 79</a></td>
+                </tr>
+                <tr>
+                    <td>80</td>
+                    <td>Find the Longest Common Prefix</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2080">Day 80</a></td>
+                </tr>
+                <tr>
+                    <td>81</td>
+                    <td>Implement Depth First Search (DFS) on Graph</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2081">Day 81</a></td>
+                </tr>
+                <tr>
+                    <td>82</td>
+                    <td>Implement Breadth First Search (BFS) on Graph</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2082">Day 82</a></td>
+                </tr>
+                <tr>
+                    <td>83</td>
+                    <td>Detect a Cycle in a Directed Graph</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2083">Day 83</a></td>
+                </tr>
+                <tr>
+                    <td>84</td>
+                    <td>Find the Shortest Path in a Graph Using Dijkstra's Algorithm</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2084">Day 84</a></td>
+                </tr>
+                <tr>
+                    <td>85</td>
+                    <td>Find the Shortest Path in a Graph Using Bellman-Ford Algorithm</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2085">Day 85</a></td>
+                </tr>
+                <tr>
+                    <td>86</td>
+                    <td>Implement Floyd-Warshall Algorithm</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2086">Day 86</a></td>
+                </tr>
+                <tr>
+                    <td>87</td>
+                    <td>Implement a Hash Table</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2087">Day 87</a></td>
+                </tr>
+                <tr>
+                    <td>88</td>
+                    <td>Find the Median of Two Sorted Arrays</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2088">Day 88</a></td>
+                </tr>
+                <tr>
+                    <td>89</td>
+                    <td>Find the Maximum Product Subarray</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2089">Day 89</a></td>
+                </tr>
+                <tr>
+                    <td>90</td>
+                    <td>Find the Subarray with the Largest Sum</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2090">Day 90</a></td>
+                </tr>
+                <tr>
+                    <td>91</td>
+                    <td>Implement an LRU Cache</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2091">Day 91</a></td>
+                </tr>
+                <tr>
+                    <td>92</td>
+                    <td>Implement a Doubly Linked List</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2092">Day 92</a></td>
+                </tr>
+                <tr>
+                    <td>93</td>
+                    <td>Find the Intersection of Two Linked Lists</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2093">Day 93</a></td>
+                </tr>
+                <tr>
+                    <td>94</td>
+                    <td>Find the Lowest Common Ancestor of Two Nodes in a Binary Tree</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2094">Day 94</a></td>
+                </tr>
+                <tr>
+                    <td>95</td>
+                    <td>Find the Diameter of a Binary Tree</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2095">Day 95</a></td>
+                </tr>
+                <tr>
+                    <td>96</td>
+                    <td>Find the Number of Islands in a 2D Grid</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2096">Day 96</a></td>
+                </tr>
+                <tr>
+                    <td>97</td>
+                    <td>Implement a Trie for Auto-Completion</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2097">Day 97</a></td>
+                </tr>
+                <tr>
+                    <td>98</td>
+                    <td>Implement an Exponentiation by Squaring Algorithm</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2098">Day 98</a></td>
+                </tr>
+                <tr>
+                    <td>99</td>
+                    <td>Implement a Suffix Tree</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%2099">Day 99</a></td>
+                </tr>
+                <tr>
+                    <td>100</td>
+                    <td>Student Management System</td>
+                    <td class="status completed">Completed</td>
+                    <td><a href="./Day%20100">Day 100</a></td>
+                </tr>
+                
+            </tbody>
+        </table>
+    </section>
+
+    <section>
+        <h2>What I Aim to Learn</h2>
+        <ul>
+            <li><strong>Core Java Concepts:</strong> Deepen my understanding of OOP (Object-Oriented Programming), data structures, and algorithms.</li>
+            <li><strong>Problem-Solving:</strong> Improve my ability to solve problems efficiently using Java.</li>
+            <li><strong>Project Building:</strong> Work on small projects to apply what I've learned in practical scenarios.</li>
+            <li><strong>Best Practices:</strong> Follow clean code principles, write readable and maintainable code, and implement industry-standard practices.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Why I'm Doing This</h2>
+        <p>Coding consistently every day helps solidify concepts and improves problem-solving skills. This challenge is not just about learning Java but also about building a strong discipline in programming. By the end of this challenge, I will have enhanced my coding skills, worked on real-world problems, and built a solid portfolio of projects.</p>
+    </section>
+</div>
+
+</body>
+</html>

@@ -3,37 +3,114 @@
 <head>
     <meta charset="UTF-8">
     <title>Edit Student</title>
-    <link rel="stylesheet" href="/css/styles.css"> <!-- Optional CSS -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        form {
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 400px;
+        }
+
+        label {
+            font-weight: bold;
+            display: block;
+            margin-bottom: 5px;
+            color: #555;
+        }
+
+        input[type="text"], input[type="number"] {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+
+        input[type="text"]:focus, input[type="number"]:focus {
+            border-color: #007bff;
+            outline: none;
+            box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+        }
+
+        button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            width: 100%;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        a {
+            display: block;
+            text-align: center;
+            margin-top: 15px;
+            text-decoration: none;
+            color: #007bff;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 600px) {
+            form {
+                padding: 15px;
+            }
+
+            button {
+                font-size: 14px;
+            }
+        }
+    </style>
 </head>
 <body>
-    <h1>Edit Student</h1>
-    <form th:action="@{/students/update/{id}(id=${student.id})}" method="post" th:object="${student}">
-        <!-- Hidden ID Field -->
-        <input type="hidden" th:field="*{id}" />
+    <div>
+        <h1>Edit Student</h1>
+        <form th:action="@{/students/update/{id}(id=${student.id})}" method="post" th:object="${student}">
+          
+            <input type="hidden" th:field="*{id}" />
 
-        <!-- Name Input -->
-        <label for="name">Name:</label>
-        <input type="text" id="name" th:field="*{name}" required />
-        <br>
+            <label for="name">Name:</label>
+            <input type="text" id="name" th:field="*{name}" required />
 
-        <!-- Roll Number Input -->
-        <label for="rollNumber">Roll Number:</label>
-        <input type="text" id="rollNumber" th:field="*{rollNumber}" required />
-        <br>
+            <label for="rollNumber">Roll Number:</label>
+            <input type="text" id="rollNumber" th:field="*{rollNumber}" required />
 
-        <!-- Course Input -->
-        <label for="course">Course:</label>
-        <input type="text" id="course" th:field="*{course}" required />
-        <br>
+            <label for="course">Course:</label>
+            <input type="text" id="course" th:field="*{course}" required />
 
-        <!-- Marks Input -->
-        <label for="marks">Marks:</label>
-        <input type="number" id="marks" th:field="*{marks}" required />
-        <br>
-
-        <!-- Submit Button -->
-        <button type="submit">Update</button>
-    </form>
-    <a href="/students">Back to Students List</a>
+            <label for="marks">Marks:</label>
+            <input type="number" id="marks" th:field="*{marks}" required />
+            
+            <button type="submit">Update</button>
+        </form>
+        <a href="/students">Back to Students List</a>
+    </div>
 </body>
 </html>
